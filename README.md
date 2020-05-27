@@ -17,8 +17,11 @@ L'agence "Santé publique France" a lancé un appel à projets pour trouver des 
 # Compétences évaluées <a name="Comp"></a>
 
 -Communiquer ses résultats à l’aide de représentations graphiques lisibles et pertinentes
+
 -Effectuer une analyse statistique univariée
+
 -Effectuer des opérations de nettoyage sur des données structurées
+
 -Effectuer une analyse statistique multivariée
 
 # Les données <a name="data"></a>
